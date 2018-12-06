@@ -1,2 +1,4 @@
 # Hellow-world
-first attempt
+First attempt
+
+Hi! Let's begin.
